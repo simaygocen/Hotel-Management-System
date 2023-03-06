@@ -1,0 +1,9 @@
+Reyna,West,1,8000,Chef
+Hailey,Baldwin,2,8000,Chef
+Joanna,Lucy,3,8000,Chef
+Harry,Johns,4,4400,Waiter
+William,Evans,5,4400,Waiter
+Alexi,Dimenson,6,4400,Waiter
+Rue,Robert,8,5300,Receptionist
+James,Cordan,9,4200,HouseKeeper
+Emily,Blonde,10,23424,HouseKeeper

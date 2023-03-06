@@ -1,0 +1,20 @@
+Hamburger,60
+Finger Chicken,65
+Finger Grilled,68
+Rice Bowl,45
+Pizza,70
+French Fries,35
+BBQ Beef,80
+Beef Grilled,85
+Beef Meat Steak,90
+Antipasto Salad,72
+Caesar Salad,70
+Crispy Salad,65
+Orange Juice,25
+Lemonade,20
+Pineapple Juice,25
+Oatmeal,45
+Eggs,25
+Cottage Cheese,32
+Eggless Truffle Cake,35
+San Sebastian Cheese Cake,35

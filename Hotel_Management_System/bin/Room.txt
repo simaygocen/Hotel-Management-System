@@ -1,0 +1,11 @@
+1,single,available
+2,single,available
+3,single,available
+4,double,available
+5,double,available
+6,double,available
+7,double,available
+9,suite,available
+10,suite,available
+11,deluxe,available
+12,deluxe,available
